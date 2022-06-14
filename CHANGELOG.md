@@ -1,3 +1,13 @@
+# [11.1.0](https://github.com/ng-bootstrap/ng-bootstrap/compare/11.0.1...11.1.0) (2022-06-14)
+
+
+### Features
+
+* add github release config ([95e6c22](https://github.com/ng-bootstrap/ng-bootstrap/commit/95e6c22d8a6856484b99fc4146e1ff02c45b281d))
+* allow ng 14 ([842ac92](https://github.com/ng-bootstrap/ng-bootstrap/commit/842ac92533331e2edc018febee000fee0985f8df))
+
+
+
 ## [11.0.1](https://github.com/ng-bootstrap/ng-bootstrap/compare/11.0.0...11.0.1) (2022-04-07)
 
 
