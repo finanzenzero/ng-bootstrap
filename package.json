@@ -1,8 +1,8 @@
 {
-  "name": "@ng-bootstrap/ng-bootstrap",
-  "version": "11.0.1",
+  "name": "@finanzenzero/ng-bootstrap",
+  "version": "11.1.0",
   "description": "Angular powered Bootstrap",
-  "author": "https://github.com/ng-bootstrap/ng-bootstrap/graphs/contributors",
+  "author": "https://github.com/finanzenzero/ng-bootstrap/graphs/contributors",
   "engines": {
     "node": ">=14.15",
     "yarn": ">=1.15.2 <2.0.0"
